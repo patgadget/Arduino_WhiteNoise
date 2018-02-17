@@ -1,6 +1,6 @@
 // This code was found at https://arduino.stackexchange.com/questions/6715/audio-frequency-white-noise-generation-using-arduino-mini-pro
 
-#define speakerPin 13
+#define speakerPin 4
 
 unsigned long lastClick;
 
